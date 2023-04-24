@@ -1,16 +1,12 @@
-# doctorappotments
+# Doctor Appointment Flutter App
 
-A new Flutter project.
+In this single app there are two logins for doctors and patients. 
 
-## Getting Started
+#Patients:
+Patients can see all the available doctors with their details, and can pick one doctor. After that they can book appointment with them with data and time and illness detials.
 
-This project is a starting point for a Flutter application.
+#Doctor: 
+Doctor can view all appointments he/she recieved and has the access to accept/reject the appointment or chnage the appointment time and date. 
 
-A few resources to get you started if this is your first Flutter project:
+These are main features. Alot of other features are also there. Check it out!!!!!!!
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
